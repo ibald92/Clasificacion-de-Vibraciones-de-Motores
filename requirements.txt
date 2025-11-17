@@ -1,0 +1,27 @@
+jupyterlab==4.2.5
+nbconvert==7.16.4
+
+# Núcleo científico
+numpy==1.26.4
+scipy==1.12.0
+pandas==2.2.2
+
+# Visualización
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# IPython utilidades
+ipython==8.26.0
+
+# NUFFT
+finufft==2.2.0
+
+# Scikit-learn + imbalanced-learn
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
+
+# Optuna
+optuna==3.6.1
+
+
+
