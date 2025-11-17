@@ -1,0 +1,34 @@
+/content/drive/MyDrive/Data/01 - m1_half_shaft_speed_no_mechanical_load.csv
+/content/drive/MyDrive/Data/02 - m1_load_0.5Nm_half_speed.csv"
+/content/drive/MyDrive/Data/03 - m1_mechanically_imbalanced_half_speed.csv
+/content/drive/MyDrive/Data/04 - m1_mechanically_imbalanced_half_speed.csv
+/content/drive/MyDrive/Data/05 - m1_mechanically_imbalanced_load_0.5Nm_half_speed.csv
+/content/drive/MyDrive/Data/06 - m1_electrically_50_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/07 - m1_electrically_100_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/08 - m1_electrically_150_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/09 - m1_electrically_50_ohm_fault_load_0.5Nm_half_speed.csv
+/content/drive/MyDrive/Data/10 - m1_electrically_100_ohm_fault_load_0.5Nm_half_speed.csv
+/content/drive/MyDrive/Data/11 - m1_mechanically_imbalanced_electrically_50_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/12 - m1_mechanically_imbalanced_electrically_100_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/13 - m1_mechanically_imbalanced_electrically_150_ohm_fault_half_speed.csv
+/content/drive/MyDrive/Data/14 - m1_mechanically_imbalanced_electrically_50_ohm_fault_load_0.5Nm_half_speed.csv
+/content/drive/MyDrive/Data/15 - m1_with_m2_mechanicaly_umbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/16 - m1_mechanically_imbalanced_with_m2_normal_on_background_half_speed.csv
+/content/drive/MyDrive/Data/17 - m1_mechanically_imbalanced_with_m2_mechanicaly_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/18 - m1_load_0.5Nm_m2_mechanically_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/19 - m1_mechanically_imbalanced_load_0.5Nm_m2_mechanically_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/20 - m1_electrically_50_ohm_fault_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/21 - m1_electrically_50_ohm_fault_load_0.5Nm_m2_mechanically_imbalanced_half_speed.csv
+/content/drive/MyDrive/Data/22 - m1_electrically_100_ohm_fault_m2_mechanically_imbalanced_half_speed.csv
+/content/drive/MyDrive/Data/23 - m1_electrically_100_ohm_fault_load_0.5Nm_m2_mechanically_imbalanced_half_speed.csv
+/content/drive/MyDrive/Data/24 - m1_electrically_150_ohm_fault_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/25 - m1_mechanically_imbalanced_electrically_50_ohm_fault_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/26 - m1_mechanically_umbalanced_electrically_50_ohm_fault_load_0.5Nm_m2_umbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/27 - m1_mechanically_imbalanced_electrically_100_ohm_fault_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/28 - m1_mechanically_imbalanced_electrically_100_ohm_fault_load_0.5Nm_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/29 - m1_mechanically_imbalanced_electrically_150_ohm_fault_m2_imbalanced_on_background_half_speed.csv
+/content/drive/MyDrive/Data/30 - m1_mechanically_imbalanced_electrically_150_ohm_fault_m2_imbalanced_on_background_rotated_half_speed.csv
+
+
+
+
